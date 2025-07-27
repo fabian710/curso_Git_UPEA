@@ -8,5 +8,5 @@ Sistema de ventas, de tarjetas para la Empresa Nacional de Telecomunicaciones EN
 
 - [@octokatherine](https://www.github.com/octokatherine)
 - [@joaquin](https://www.github.com/joaquin)
-- [@fabian](https://www.github.com/fabian)
+
 
