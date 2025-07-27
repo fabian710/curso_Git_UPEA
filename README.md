@@ -10,4 +10,4 @@ Sistema de ventas, de tarjetas para la Empresa Nacional de Telecomunicaciones EN
 - [@joaquin](https://www.github.com/joaquin)
 
 
-- [@carlos](https://www.github.com/carlos)
+- [@simon](https://www.github.com/simon)
