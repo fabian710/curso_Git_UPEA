@@ -15,3 +15,4 @@ Sistema de ventas, de tarjetas para la Empresa Nacional de Telecomunicaciones EN
 
 - [@simon](https://www.github.com/simon)
 - [@juan](https://www.github.com/juan)
+
